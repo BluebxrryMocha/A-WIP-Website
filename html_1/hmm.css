@@ -12,6 +12,15 @@ body {
     background-image: url("polkadot.png");
 }
 
+header {
+
+}
+
+header h1 {
+    font-family: "Indie Flower", cursive;
+    font-size: 45px;
+
+}
 #front_background { 
     background-color: white;
     height: 600px;
@@ -31,4 +40,17 @@ li {
     background-color: lightpink;
     border-radius: 20px;
     text-align: center;
+    
+}
+
+a {
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
 }
